@@ -1,0 +1,9 @@
+.main {
+    margin: 0;
+    padding: 2vh 0;
+    width: 100%
+}
+
+.modal img{
+    max-width:50%;
+}
